@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.1.9] 2026-01-26
+
+### Updates and Improvements 🛠️
+
+- Update dependencies (mitigates 16 vulnerabilities: 2 low, 9 moderate, 5 high)
+
 ## [1.1.8] 2024-11-03
 
 ### Updates and Improvements 🛠️
