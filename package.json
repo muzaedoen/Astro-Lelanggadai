@@ -30,12 +30,14 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
+    "preview": "npm run build && wrangler dev",
     "astro": "astro",
     "youtube": "node scripts/youtube.cjs",
     "newpost": "astro-md-generator",
     "format": "prettier -w .",
-    "lint:eslint": "eslint . --ext .js,.ts,.astro"
+    "lint:eslint": "eslint . --ext .js,.ts,.astro",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "devDependencies": {
     "@astrojs/mdx": "^4.3.13",
@@ -58,13 +60,15 @@
     "prettier-plugin-astro": "0.13.0",
     "prettier-plugin-tailwindcss": "0.5.13",
     "tailwindcss": "3.4.3",
-    "vite-plugin-pwa": "^1.2.0"
+    "vite-plugin-pwa": "^1.2.0",
+    "wrangler": "^4.103.0"
   },
   "resolutions": {
     "astro/sharp": "0.33.1",
     "astro-compress/sharp": "0.33.1"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "12",
     "astro-compressor": "0.4.1"
   }
 }
