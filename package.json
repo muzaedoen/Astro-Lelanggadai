@@ -7,24 +7,25 @@
   "author": {
     "name": "GNDX"
   },
-  "homepage": "https://ev0.gndx.dev",
+  "homepage": "https://my-blog-eu-org.pages.dev",
   "contributors": [
     {
-      "name": "Oscar Barajas @gndx",
-      "email": "oscar@gndx.dev",
-      "url": "https://gndx.dev"
+      "name": "WBU",
+      "email": "wbujava@gmail.com",
+      "url": "https://wbu.my.id"
     }
   ],
   "keywords": [
-    "JavaScript",
-    "Astro",
-    "react",
-    "tailwindcss",
-    "typescript"
+    "lelang",
+    "gadai",
+    "rumah",
+    "mobil",
+    "bpkb",
+	"emas"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gndx/ev0-astro-theme.dev.git"
+    "url": "https://github.com/muzaedoen/Astro-Lelanggadai.git"
   },
   "scripts": {
     "dev": "astro dev",
