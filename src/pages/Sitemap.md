@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/Base.astro
 title: "Sitemap"
+blogpost : true
 ---
 
 # Sitemap Informasi Situs
