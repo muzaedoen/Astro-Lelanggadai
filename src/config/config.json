@@ -1,26 +1,5 @@
-{
-  "site": {
-    "title": "Lelang Gadai",
-    "base_url": "https://my-blog-eu-org.pages.dev/",
-    "base_path": "/",
-    "favicon": "/favicon.png",
-    "logoLight": "/logoLight.png",
-    "logoDark": "/logoDark.png",
-    "lang": "en",
-    "description": "/",
-    "pageSize": 9
-  },
-  "features": {
-    "youtube": true,
-    "dark_mode": true
-  },
-  "metadata": {
-    "meta_author": "/",
-    "meta_description": "/"
-  },
   "author": {
-    "name": "/",
+    "name": "",
     "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "/"
+    "bio": ""
   }
-}
