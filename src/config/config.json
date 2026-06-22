@@ -1,20 +1,26 @@
----
-import BaseLayout from '@layouts/BaseLayout.astro';
-import Hero from '@components/Hero.astro';
-import FeaturedVideos from '@components/FeaturedVideos.astro';
-import HomePagination from '@components/HomePagination.astro';
----
-
-<BaseLayout>
-  <div class="hidden">
-    <Hero />
-  </div>
-
-  <div class="hidden">
-    <FeaturedVideos />
-  </div>
-
-  <main class="mx-auto max-w-screen-lg px-4 font-sans text-zinc-700 dark:text-zinc-300 sm:px-6 lg:px-8">
-    <HomePagination />
-  </main>
-</BaseLayout>
+{
+  "site": {
+    "title": "Lelang Gadai",
+    "base_url": "https://my-blog-eu-org.pages.dev/",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logoLight": "/logoLight.png",
+    "logoDark": "/logoDark.png",
+    "lang": "en",
+    "description": "/",
+    "pageSize": 9
+  },
+  "features": {
+    "youtube": true,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "/",
+    "meta_description": "/"
+  },
+  "author": {
+    "name": "/",
+    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
+    "bio": "/"
+  }
+}
