@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/Base.astro
 title: "Disclaimer"
+blogpost : true
 ---
 
 # Disclaimer
