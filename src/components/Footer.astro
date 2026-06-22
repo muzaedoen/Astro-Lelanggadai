@@ -4,10 +4,18 @@ import HeartIcon from '@components/icons/HeartIcon.astro';
 const year = new Date().getFullYear();
 ---
 
-<footer class="mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-8">
-  <div class="border-t border-zinc-100 dark:border-zinc-900">
-    <p class="mb-8 mt-8 text-center text-xs/relaxed text-zinc-500 dark:text-zinc-400">
-      &copy; {year}. {config.site.title} - All rights REVERSE
+<footer class="mx-auto max-w-screen-lg px-4 sm:px-6 lg:px-8 mt-12">
+  <div class="border-t border-zinc-100 dark:border-zinc-900 py-8">
+    <div class="mb-4 flex justify-center space-x-6 text-xs text-zinc-500 dark:text-zinc-400">
+      <a href="/blog/privacy-policy" class="hover:text-amber-500 dark:hover:text-amber-400 transition-colors">Privacy Policy</a>
+      <span class="text-zinc-300 dark:text-zinc-800">|</span>
+      <a href="/blog/terms-and-conditions" class="hover:text-amber-500 dark:hover:text-amber-400 transition-colors">Terms & Conditions</a>
+      <span class="text-zinc-300 dark:text-zinc-800">|</span>
+      <a href="/tags" class="hover:text-amber-500 dark:hover:text-amber-400 transition-colors">Tags</a>
+    </div>
+
+    <p class="text-center text-xs/relaxed text-zinc-500 dark:text-zinc-400">
+      &copy; {year}. {config.site.title} - All rights reserved.
       <span class="mt-2 block">
         Made with
         <HeartIcon />
