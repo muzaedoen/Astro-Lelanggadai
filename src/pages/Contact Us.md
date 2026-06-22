@@ -1,6 +1,7 @@
 ---
 layout: ../layouts/Base.astro
 title: "Contact Us"
+blogpost : true
 ---
 
 # Contact Us
