@@ -3,6 +3,7 @@ title: "Privacy Policy"
 description: "Kebijakan Privasi resmi untuk website portal informasi Lelang Gadai Indonesia."
 pubDate: "2026-06-22"
 tags: ["regulasi"]
+blogpost : true
 ---
 
 Selamat datang di **lelanggadai.com**. Kami sangat menghargai privasi Anda sebagai pengunjung setia portal informasi lelang dan gadai di seluruh Indonesia. Halaman Kebijakan Privasi ini dibuat untuk menjelaskan bagaimana kami mengelola, mengumpulkan, dan melindungi informasi Anda saat menggunakan situs kami.
