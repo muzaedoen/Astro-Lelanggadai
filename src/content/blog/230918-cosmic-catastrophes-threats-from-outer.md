@@ -6,6 +6,7 @@ heroImage: '/blog-placeholder.jpg'
 categories: ['lelang']
 ---
 
+<!-- FOTO BARANG LELANG -->
 <div style={{ textAlign: 'center', marginBottom: '20px' }}>
   <img 
     src="URL_GAMBAR_IMGBB_DISINI" 
@@ -17,7 +18,7 @@ categories: ['lelang']
 ### Informasi Lelang
 
 <table class="tabel-lelang">
-<thead>
+<thead style={{ backgroundColor: '#F0F4F8', color: '#1E1E1E' }}>
   <tr>
     <th>INFORMASI</th>
     <th>KETERANGAN</th>
@@ -25,47 +26,47 @@ categories: ['lelang']
 </thead>
 <tbody>
   <tr class="bg-info-muda">
-    <td>JENIS BARANG LELANG</td>
+    <td>Jenis Barang Lelang</td>
     <td>Tidak Bergerak<br /><b>Tanah Berikut Bangunan</b></td>
   </tr>
   <tr class="bg-sukses-muda">
-    <td>BUKTI KEPEMILIKAN</td>
+    <td>Bukti Kepemilikan</td>
     <td>SHM No: 8027 (13 Des 2019)</td>
   </tr>
   <tr class="bg-info-muda">
-    <td>UANG JAMINAN</td>
+    <td>Uang Jaminan</td>
     <td class="text-danger-bold">Rp 42.000.000</td>
   </tr>
   <tr class="bg-sukses-muda">
-    <td>NILAI LIMIT</td>
+    <td>Nilai Limit</td>
     <td class="text-success-bold">Rp 201.000.000</td>
   </tr>
   <tr class="bg-info-muda">
-    <td>BATAS AKHIR UANG JAMINAN</td>
+    <td>Batas Akhir Uang Jaminan</td>
     <td class="text-warning-muda-bold">23 Juni 2026</td>
   </tr>
   <tr class="bg-sukses-muda">
-    <td>BATAS AKHIR PENAWARAN</td>
+    <td>Batas Akhir Penawaran</td>
     <td class="text-warning-tua-bold">24 Juni 2026</td>
   </tr>
   <tr class="bg-info-muda">
-    <td>URAIAN</td>
+    <td>Uraian</td>
     <td><b>Luas:</b> 103 M²<br /><b>Alamat:</b> Perum Dinar Asri N 8 11, Kelurahan Meteseh, Kecamatan Tembalang, Kota Semarang, Provinsi Jawa Tengah</td>
   </tr>
   <tr class="bg-sukses-muda">
-    <td>ANALISIS JAMINAN</td>
+    <td>Analisis Jaminan</td>
     <td>Uang jaminan sebesar <b>Rp 42.000.000</b> wajib dibayarkan untuk mengikuti lelang. Jaminan akan dikembalikan penuh apabila peserta tidak memenangkan lelang.</td>
   </tr>
   <tr class="bg-info-muda">
-    <td>CATATAN PENTING</td>
+    <td>Catatan Penting</td>
     <td class="text-catatan">Disarankan untuk <b>berpikir matang dan teliti</b> sebelum memutuskan berinvestasi di tanah lelang. Lakukan survei lokasi, cek dokumen asli, dan pertimbangkan risiko investasi properti dengan seksama.</td>
   </tr>
   <tr class="bg-sukses-muda">
-    <td>KETERANGAN INFORMASI</td>
+    <td>Keterangan Informasi</td>
     <td>Informasi ini hanya bertujuan untuk mempermudah proses pencairan dan sebagai bahan referensi. Segala keputusan akhir berada di tangan peserta lelang.</td>
   </tr>
   <tr class="bg-info-muda">
-    <td>INFO PENJUAL</td>
+    <td>Info Penjual</td>
     <td class="text-redup">
       <b>PT Bank Mandiri (Persero), Tbk</b><br />
       Retail Asset Management VII / Jawa 2<br />
@@ -74,7 +75,7 @@ categories: ['lelang']
     </td>
   </tr>
   <tr class="bg-sukses-muda">
-    <td>INFO PENYELENGGARA</td>
+    <td>Info Penyelenggara</td>
     <td class="text-redup">
       <b>KPKNL Semarang</b> (Rekening BNI)<br />
       Gedung Keuangan Negara Semarang II Lantai 4, Jl. Imam Bonjol No. 1D, Semarang - 50142<br />
@@ -82,8 +83,8 @@ categories: ['lelang']
     </td>
   </tr>
   <tr class="bg-info-muda">
-    <td>SUMBER</td>
-    <td><a href="https://lelang.go.id" class="link-sumber" target="_blank" rel="noopener noreferrer">lelang.go.id ↗</a></td>
+    <td>Sumber</td>
+    <td><a href="https://lelang.go.id" class="link-sumber" target="_blank">lelang.go.id ↗</a></td>
   </tr>
 </tbody>
 </table>
