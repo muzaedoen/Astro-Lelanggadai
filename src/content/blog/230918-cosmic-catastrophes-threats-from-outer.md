@@ -69,14 +69,6 @@ categories: ['planetary defense']
       <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">SUMBER</td>
       <td style="padding: 12px 15px;"><a href="https://lelang.go.id" style="color: #1976D2; text-decoration: none; font-weight: bold;">lelang.go.id ↗</a></td>
     </tr>
-<tr style="border-bottom: 1px solid #E0E0E0;">
-      <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">INFO PENYELENGGARA</td>
-      <td style="padding: 12px 15px; color: #555; font-size: 13px; line-height: 1.4;">
-        <b>KPKNL Semarang</b> (Rekening BNI)<br>
-        Gedung Keuangan Negara Semarang II Lantai 4, Jl. Imam Bonjol No. 1D, Semarang - 50142<br>
-        📞 Telepon: (024) 3542272
-      </td>
-    </tr>
       
   </tbody>
 </table>
