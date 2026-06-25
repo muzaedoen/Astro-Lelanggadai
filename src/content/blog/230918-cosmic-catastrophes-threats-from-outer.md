@@ -126,7 +126,10 @@ Analisis Harga (Nilai Limit vs Pasar): Dengan Nilai Limit sebesar Rp 201.000.000
   <tr style="border-bottom: 1px solid #E0E0E0; background-color: #E8F5E9;">
     <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">RESIKO DAN PANDUAN PENTING SEBELUM MENGIKUTI LELANG INI</td>
     <td style="padding: 12px 15px; color: #D84315; line-height: 1.5; font-weight: 500;">
-      Disarankan untuk <b>berpikir matang dan teliti</b> sebelum memutuskan berinvestasi di tanah lelang. Lakukan survei lokasi, cek dokumen asli, dan pertimbangkan risiko investasi properti dengan seksama.
+    Membeli properti lewat jalur lelang KPKNL memang menguntungkan, namun Anda wajib melakukan due diligence (pemeriksaan menyeluruh) untuk menghindari masalah hukum di kemudian hari:
+* Cek Status Penghuni: Pastikan apakah rumah dalam keadaan kosong atau masih dihuni oleh pemilik lama. Mengosongkan rumah yang masih dihuni memerlukan proses hukum pengosongan (eksekusi) yang memakan waktu dan biaya tambahan.
+* Kondisi Fisik Bangunan: Mengingat ini adalah aset sitaan bank (asset recovery), ada kemungkinan bangunan memerlukan renovasi besar. Datangi lokasi secara langsung di Perum Dinar Asri N 8 11 untuk menghitung estimasi biaya perbaikan (renovation cost).
+* Kesiapan Dana Kas: Ingat bahwa batas akhir uang jaminan adalah 23 Juni 2026. Jika Anda menang, Anda harus melunasi sisa pembayaran dalam waktu yang sangat singkat (biasanya 5 hari kerja). Kegagalan melunasi akan membuat uang jaminan Rp 42.000.000 Anda hangus. 
     </td>
   </tr>
 
