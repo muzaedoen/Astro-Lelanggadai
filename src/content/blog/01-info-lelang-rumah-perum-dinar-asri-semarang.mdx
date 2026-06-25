@@ -1,27 +1,14 @@
 ---
-# =========================================================================
-# FRONTMATTER (METADATA ARTIKEL)
-# Bagian ini digunakan oleh Astro untuk mengatur SEO halaman, judul, 
-# dan otomatis dipakai menjadi meta tag OG Image untuk share ke Facebook.
-# =========================================================================
 title: 'Info Lelang Rumah Perum Dinar Asri Semarang: Peluang Investasi & Analisis Risiko'
 description: 'Simak detail lelang properti Bank Mandiri di Tembalang, Semarang dengan nilai limit Rp 201 Juta. Baca analisis lokasi dan tips aman ikut lelang KPKNL di sini.'
 pubDate: '2026-06-06T01:22:34.123Z'
-heroImage: '../../assets/lelang/rumah-dinar-asri.jpg' # Jalur gambar lokal untuk thumbnail sistem & Facebook
+heroImage: '/images/lelang/rumah-dinar-asri.jpg'
 categories: ['Lelang Semarang']
 ---
 
-# =========================================================================
-# IMPORT KOMPONEN ASTRO
-# Wajib di-import di atas agar fitur kompresi gambar otomatis berjalan.
-# =========================================================================
 import { Image } from 'astro:assets';
-import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg'; # Mengubah file gambar menjadi variabel JavaScript
+import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg';
 
-{/* FOTO UTAMA ARTIKEL 
-  - Menggunakan komponen <Image /> bawaan Astro.
-  - format="webp" memastikan gambar otomatis dikompres menjadi sangat ringan untuk SEO.
-*/}
 <div style={{ textAlign: 'center', marginBottom: '20px' }}>
   <Image 
     src={fotoRumah} 
@@ -33,11 +20,6 @@ import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg'; # Mengubah fil
 
 ### Informasi Lelang
 
-{/* TABEL INFORMASI UTAMA 
-  - class="tabel-lelang" akan otomatis mengambil gaya desain dari file layout blog Anda.
-  - class="bg-info-muda" menghasilkan warna baris biru muda cerah.
-  - class="bg-sukses-muda" menghasilkan warna baris hijau muda cerah.
-*/}
 <table class="tabel-lelang">
 <thead style={{ backgroundColor: '#F0F4F8', color: '#1E1E1E' }}>
   <tr>
@@ -56,19 +38,19 @@ import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg'; # Mengubah fil
   </tr>
   <tr class="bg-info-muda">
     <td>Uang Jaminan</td>
-    <td class="text-danger-bold">Rp 42.000.000</td> {/* Kelas warna merah tebal */}
+    <td class="text-danger-bold">Rp 42.000.000</td>
   </tr>
   <tr class="bg-sukses-muda">
     <td>Nilai Limit</td>
-    <td class="text-success-bold">Rp 201.000.000</td> {/* Kelas warna hijau tebal */}
+    <td class="text-success-bold">Rp 201.000.000</td>
   </tr>
   <tr class="bg-info-muda">
     <td>Batas Akhir Uang Jaminan</td>
-    <td class="text-warning-muda-bold">23 Juni 2026</td> {/* Kelas warna jingga tebal */}
+    <td class="text-warning-muda-bold">23 Juni 2026</td>
   </tr>
   <tr class="bg-sukses-muda">
     <td>Batas Akhir Penawaran</td>
-    <td class="text-warning-tua-bold">24 Juni 2026</td> {/* Kelas warna cokelat-merah tebal */}
+    <td class="text-warning-tua-bold">24 Juni 2026</td>
   </tr>
   <tr class="bg-info-muda">
     <td>Uraian</td>
@@ -88,7 +70,7 @@ import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg'; # Mengubah fil
   </tr>
   <tr class="bg-info-muda">
     <td>Info Penjual</td>
-    <td class="text-redup"> {/* Kelas huruf sedikit mengecil & warna abu-abu gelap */}
+    <td class="text-redup">
       <b>PT Bank Mandiri (Persero), Tbk</b><br />
       Retail Asset Management VII / Jawa 2<br />
       Jl. Kepodang No 32-34 Lantai 2, Kota Semarang<br />
@@ -105,18 +87,12 @@ import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg'; # Mengubah fil
   </tr>
   <tr class="bg-info-muda">
     <td>Sumber</td>
-    {/* Link Dofollow eksternal yang dioptimalkan untuk keamanan pembukaan tab baru */}
     <td><a href="https://lelang.go.id" class="link-sumber" target="_blank">lelang.go.id ↗</a></td>
   </tr>
 </tbody>
 </table>
 
 ---
-
-{/* KONTEN NARASI UTAMA (MENDUKUNG SEO & GOOGLE HELPFUL CONTENT)
-  Bagian bawah ini wajib ditulis menggunakan format paragraf biasa agar 
-  kata kunci terindeks alami dan layout responsif di layar ponsel (mobile).
-*/}
 
 ## Analisis Lokasi dan Potensi Investasi
 
@@ -132,6 +108,5 @@ Namun, khusus untuk kawasan Meteseh, ada beberapa hal yang perlu Anda garis bawa
 Membeli properti lewat jalur lelang KPKNL memang menguntungkan, namun Anda wajib melakukan *due diligence* (pemeriksaan menyeluruh) untuk menghindari masalah hukum di kemudian hari:
 
 1. **Cek Status Penghuni:** Pastikan apakah rumah dalam keadaan kosong atau masih dihuni oleh pemilik lama. Mengosongkan rumah yang masih dihuni memerlukan proses hukum pengosongan (eksekusi) yang memakan waktu dan biaya tambahan.
-
 2. **Kondisi Fisik Bangunan:** Mengingat ini adalah aset sitaan bank (*asset recovery*), ada kemungkinan bangunan memerlukan renovasi besar. Datangi lokasi secara langsung di Perum Dinar Asri N 8 11 untuk menghitung estimasi biaya perbaikan (*renovation cost*).
 3. **Kesiapan Dana Kas:** Ingat bahwa batas akhir uang jaminan adalah **23 Juni 2026**. Jika Anda menang, Anda harus melunasi sisa pembayaran dalam waktu yang sangat singkat (biasanya 5 hari kerja). Kegagalan melunasi akan membuat uang jaminan Rp 42.000.000 Anda hangus.
