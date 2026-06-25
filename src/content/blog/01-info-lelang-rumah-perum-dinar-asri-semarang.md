@@ -1,22 +1,43 @@
 ---
+# =========================================================================
+# FRONTMATTER (METADATA ARTIKEL)
+# Bagian ini digunakan oleh Astro untuk mengatur SEO halaman, judul, 
+# dan otomatis dipakai menjadi meta tag OG Image untuk share ke Facebook.
+# =========================================================================
 title: 'Info Lelang Rumah Perum Dinar Asri Semarang: Peluang Investasi & Analisis Risiko'
 description: 'Simak detail lelang properti Bank Mandiri di Tembalang, Semarang dengan nilai limit Rp 201 Juta. Baca analisis lokasi dan tips aman ikut lelang KPKNL di sini.'
 pubDate: '2026-06-06T01:22:34.123Z'
-heroImage: '/blog-placeholder.jpg'
+heroImage: '../../assets/lelang/rumah-dinar-asri.jpg' # Jalur gambar lokal untuk thumbnail sistem & Facebook
 categories: ['Lelang Semarang']
 ---
 
-<!-- FOTO BARANG LELANG -->
+# =========================================================================
+# IMPORT KOMPONEN ASTRO
+# Wajib di-import di atas agar fitur kompresi gambar otomatis berjalan.
+# =========================================================================
+import { Image } from 'astro:assets';
+import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg'; # Mengubah file gambar menjadi variabel JavaScript
+
+{/* FOTO UTAMA ARTIKEL 
+  - Menggunakan komponen <Image /> bawaan Astro.
+  - format="webp" memastikan gambar otomatis dikompres menjadi sangat ringan untuk SEO.
+*/}
 <div style={{ textAlign: 'center', marginBottom: '20px' }}>
-  <img 
-    src="URL_GAMBAR_IMGBB_DISINI" 
+  <Image 
+    src={fotoRumah} 
     alt="Kondisi Fisik Rumah Lelang Perum Dinar Asri Meteseh Tembalang Semarang" 
-    style={{ maxWidth: '100%', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} 
+    format="webp"
+    style={{ maxWidth: '100%', height: 'auto', borderRadius: '8px', boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }} 
   />
 </div>
 
 ### Informasi Lelang
 
+{/* TABEL INFORMASI UTAMA 
+  - class="tabel-lelang" akan otomatis mengambil gaya desain dari file layout blog Anda.
+  - class="bg-info-muda" menghasilkan warna baris biru muda cerah.
+  - class="bg-sukses-muda" menghasilkan warna baris hijau muda cerah.
+*/}
 <table class="tabel-lelang">
 <thead style={{ backgroundColor: '#F0F4F8', color: '#1E1E1E' }}>
   <tr>
@@ -35,19 +56,19 @@ categories: ['Lelang Semarang']
   </tr>
   <tr class="bg-info-muda">
     <td>Uang Jaminan</td>
-    <td class="text-danger-bold">Rp 42.000.000</td>
+    <td class="text-danger-bold">Rp 42.000.000</td> {/* Kelas warna merah tebal */}
   </tr>
   <tr class="bg-sukses-muda">
     <td>Nilai Limit</td>
-    <td class="text-success-bold">Rp 201.000.000</td>
+    <td class="text-success-bold">Rp 201.000.000</td> {/* Kelas warna hijau tebal */}
   </tr>
   <tr class="bg-info-muda">
     <td>Batas Akhir Uang Jaminan</td>
-    <td class="text-warning-muda-bold">23 Juni 2026</td>
+    <td class="text-warning-muda-bold">23 Juni 2026</td> {/* Kelas warna jingga tebal */}
   </tr>
   <tr class="bg-sukses-muda">
     <td>Batas Akhir Penawaran</td>
-    <td class="text-warning-tua-bold">24 Juni 2026</td>
+    <td class="text-warning-tua-bold">24 Juni 2026</td> {/* Kelas warna cokelat-merah tebal */}
   </tr>
   <tr class="bg-info-muda">
     <td>Uraian</td>
@@ -67,7 +88,7 @@ categories: ['Lelang Semarang']
   </tr>
   <tr class="bg-info-muda">
     <td>Info Penjual</td>
-    <td class="text-redup">
+    <td class="text-redup"> {/* Kelas huruf sedikit mengecil & warna abu-abu gelap */}
       <b>PT Bank Mandiri (Persero), Tbk</b><br />
       Retail Asset Management VII / Jawa 2<br />
       Jl. Kepodang No 32-34 Lantai 2, Kota Semarang<br />
@@ -84,6 +105,7 @@ categories: ['Lelang Semarang']
   </tr>
   <tr class="bg-info-muda">
     <td>Sumber</td>
+    {/* Link Dofollow eksternal yang dioptimalkan untuk keamanan pembukaan tab baru */}
     <td><a href="https://lelang.go.id" class="link-sumber" target="_blank">lelang.go.id ↗</a></td>
   </tr>
 </tbody>
@@ -91,19 +113,6 @@ categories: ['Lelang Semarang']
 
 ---
 
-## Analisis Lokasi dan Potensi Investasi
-
-Properti lelang ini terletak di Kecamatan **Tembalang, Kota Semarang**. Sebagai kawasan yang terkenal dekat dengan berbagai kampus besar (seperti Universitas Diponegoro), Tembalang memiliki pertumbuhan nilai properti yang relatif stabil. 
-
-Namun, khusus untuk kawasan Meteseh, ada beberapa hal yang perlu Anda garis bawahi sebagai investor:
-
-* **Aksesibilitas dan Fasilitas:** Perumahan Dinar Asri memiliki akses yang cukup baik menuju pusat keramaian Tembalang. Lokasi ini cocok untuk hunian keluarga muda atau dijadikan aset sewa (kontrakan).
-* **Analisis Harga (Nilai Limit vs Pasar):** Dengan Nilai Limit sebesar **Rp 201.000.000** untuk luas tanah 103 m² (berikut bangunan), harga ini secara kasat mata berada di bawah harga pasar normal di kawasan Tembalang. Ini memberikan *margin of safety* yang menarik bagi investor properti. 
-
-## Risiko dan Panduan Penting Sebelum Mengikuti Lelang Ini
-
-Membeli properti lewat jalur lelang KPKNL memang menguntungkan, namun Anda wajib melakukan *due diligence* (pemeriksaan menyeluruh) untuk menghindari masalah hukum di kemudian hari:
-
-1. **Cek Status Penghuni:** Pastikan apakah rumah dalam keadaan kosong atau masih dihuni oleh pemilik lama. Mengosongkan rumah yang masih dihuni memerlukan proses hukum pengosongan (eksekusi) yang memakan waktu dan biaya tambahan.
-2. **Kondisi Fisik Bangunan:** Mengingat ini adalah aset sitaan bank (*asset recovery*), ada kemungkinan bangunan memerlukan renovasi besar. Datangi lokasi secara langsung di Perum Dinar Asri N 8 11 untuk menghitung estimasi biaya perbaikan (*renovation cost*).
-3. **Kesiapan Dana Kas:** Ingat bahwa batas akhir uang jaminan adalah **23 Juni 2026**. Jika Anda menang, Anda harus melunasi sisa pembayaran dalam waktu yang sangat singkat (biasanya 5 hari kerja). Kegagalan melunasi akan membuat uang jaminan Rp 42.000.000 Anda hangus.
+{/* KONTEN NARASI UTAMA (MENDUKUNG SEO & GOOGLE HELPFUL CONTENT)
+  Bagian bawah ini wajib ditulis menggunakan format paragraf biasa agar 
+  kata kunci terindeks alami dan layout responsif di layar ponsel (
