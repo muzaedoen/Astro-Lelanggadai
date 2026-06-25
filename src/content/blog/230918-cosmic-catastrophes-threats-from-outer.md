@@ -99,7 +99,7 @@ categories: ['lelang']
 
 
 
-### ANALISIS DAN TAMBAHANN IINFORMASI PENTING
+### ANALISIS DAN TAMBAHAN INFORMASI PENTING
 
 <table style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
 <thead>
@@ -114,7 +114,12 @@ categories: ['lelang']
   <tr style="border-bottom: 1px solid #E0E0E0; background-color: #E3F2FD;"> 
     <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">ANALISIS LOKASI DAN POTENSI INVESTASI</td>
     <td style="padding: 12px 15px; color: #333; line-height: 1.5;">
-      Uang jaminan sebesar <b>Rp 42.000.000</b> wajib dibayarkan untuk mengikuti lelang. Jaminan akan dikembalikan penuh apabila peserta tidak memenangkan lelang.
+     Properti lelang ini terletak di Kecamatan Tembalang, Kota Semarang. Sebagai kawasan yang terkenal dekat dengan berbagai kampus besar (seperti Universitas Diponegoro), Tembalang memiliki pertumbuhan nilai properti yang relatif stabil. Namun, khusus untuk kawasan Meteseh, ada beberapa hal yang perlu Anda garis bawahi sebagai investor:
+
+* Aksesibilitas dan Fasilitas: Perumahan Dinar Asri memiliki akses yang cukup baik menuju pusat keramaian Tembalang.
+* Lokasi ini cocok untuk hunian keluarga muda atau dijadikan aset sewa (kontrakan).
+
+Analisis Harga (Nilai Limit vs Pasar): Dengan Nilai Limit sebesar Rp 201.000.000 untuk luas tanah 103 m² (berikut bangunan), harga ini secara kasat mata berada di bawah harga pasar normal di kawasan Tembalang. Ini memberikan margin of safety yang menarik bagi investor properti. 
     </td>
   </tr>
 
