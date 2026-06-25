@@ -1,6 +1,6 @@
 ---
-title: 'Uji COba'
-description: 'Delve into the realm of theoretical physics and the possibilities of traversable wormholes and warp drives.'
+title: 'Info Lelang Rumah Perum Dinar Asri Semarang: Peluang Investasi & Analisis Risiko''
+description: 'Simak detail lelang properti Bank Mandiri di Tembalang, Semarang dengan nilai limit Rp 201 Juta. Baca analisis lokasi dan tips aman ikut lelang KPKNL di sini.'
 pubDate: '2026-06-06'
 heroImage: '/blog-placeholder.jpg'
 categories: ['Lelang']
