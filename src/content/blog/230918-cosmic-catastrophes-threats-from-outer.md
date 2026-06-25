@@ -50,21 +50,22 @@ categories: ['planetary defense']
     <td style="padding: 12px 15px; color: #333; line-height: 1.5;"><b>Luas:</b> 103 M²<br><b>Alamat:</b> Perum Dinar Asri N 8 11, Kelurahan Meteseh, Kecamatan Tembalang, Kota Semarang, Provinsi Jawa Tengah</td>
   </tr>
 
-  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #F0F7FF;">
+  <!-- Baris Tambahan dengan warna baru -->
+  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #E3F2FD;">
     <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">ANALISIS JAMINAN</td>
     <td style="padding: 12px 15px; color: #333; line-height: 1.5;">
       Uang jaminan sebesar <b>Rp 42.000.000</b> wajib dibayarkan untuk mengikuti lelang. Jaminan akan dikembalikan penuh apabila peserta tidak memenangkan lelang.
     </td>
   </tr>
 
-  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #FFF8E1;">
+  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #E8F5E9;">
     <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">CATATAN PENTING</td>
     <td style="padding: 12px 15px; color: #D84315; line-height: 1.5; font-weight: 500;">
       Disarankan untuk <b>berpikir matang dan teliti</b> sebelum memutuskan berinvestasi di tanah lelang. Lakukan survei lokasi, cek dokumen asli, dan pertimbangkan risiko investasi properti dengan seksama.
     </td>
   </tr>
 
-  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #F9F9F9;">
+  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #E3F2FD;">
     <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">KETERANGAN INFORMASI</td>
     <td style="padding: 12px 15px; color: #555; line-height: 1.5;">
       Informasi ini hanya bertujuan untuk mempermudah proses pencairan dan sebagai bahan referensi. Segala keputusan akhir berada di tangan peserta lelang.
