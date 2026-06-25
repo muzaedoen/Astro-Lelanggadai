@@ -115,4 +115,22 @@ import fotoRumah from '../../assets/lelang/rumah-dinar-asri.jpg'; # Mengubah fil
 
 {/* KONTEN NARASI UTAMA (MENDUKUNG SEO & GOOGLE HELPFUL CONTENT)
   Bagian bawah ini wajib ditulis menggunakan format paragraf biasa agar 
-  kata kunci terindeks alami dan layout responsif di layar ponsel (
+  kata kunci terindeks alami dan layout responsif di layar ponsel (mobile).
+*/}
+
+## Analisis Lokasi dan Potensi Investasi
+
+Properti lelang ini terletak di Kecamatan **Tembalang, Kota Semarang**. Sebagai kawasan yang terkenal dekat dengan berbagai kampus besar (seperti Universitas Diponegoro), Tembalang memiliki pertumbuhan nilai properti yang relatif stabil. 
+
+Namun, khusus untuk kawasan Meteseh, ada beberapa hal yang perlu Anda garis bawahi sebagai investor:
+
+* **Aksesibilitas dan Fasilitas:** Perumahan Dinar Asri memiliki akses yang cukup baik menuju pusat keramaian Tembalang. Lokasi ini cocok untuk hunian keluarga muda atau dijadikan aset sewa (kontrakan).
+* **Analisis Harga (Nilai Limit vs Pasar):** Dengan Nilai Limit sebesar **Rp 201.000.000** untuk luas tanah 103 m² (berikut bangunan), harga ini secara kasat mata berada di bawah harga pasar normal di kawasan Tembalang. Ini memberikan *margin of safety* yang menarik bagi investor properti. 
+
+## Risiko dan Panduan Penting Sebelum Mengikuti Lelang Ini
+
+Membeli properti lewat jalur lelang KPKNL memang menguntungkan, namun Anda wajib melakukan *due diligence* (pemeriksaan menyeluruh) untuk menghindari masalah hukum di kemudian hari:
+
+1. **Cek Status Penghuni:** Pastikan apakah rumah dalam keadaan kosong atau masih dihuni oleh pemilik lama. Mengosongkan rumah yang masih dihuni memerlukan proses hukum pengosongan (eksekusi) yang memakan waktu dan biaya tambahan.
+2. **Kondisi Fisik Bangunan:** Mengingat ini adalah aset sitaan bank (*asset recovery*), ada kemungkinan bangunan memerlukan renovasi besar. Datangi lokasi secara langsung di Perum Dinar Asri N 8 11 untuk menghitung estimasi biaya perbaikan (*renovation cost*).
+3. **Kesiapan Dana Kas:** Ingat bahwa batas akhir uang jaminan adalah **23 Juni 2026**. Jika Anda menang, Anda harus melunasi sisa pembayaran dalam waktu yang sangat singkat (biasanya 5 hari kerja). Kegagalan melunasi akan membuat uang jaminan Rp 42.000.000 Anda hangus.
