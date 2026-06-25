@@ -1,9 +1,9 @@
 ---
 title: 'Uji COba'
 description: 'Delve into the realm of theoretical physics and the possibilities of traversable wormholes and warp drives.'
-pubDate: '2021-09-19T01:22:34.123Z'
+pubDate: '2026-06-06'
 heroImage: '/blog-placeholder.jpg'
-categories: ['planetary defense']
+categories: ['Lelang']
 ---
 
 <!-- FOTO BARANG LELANG -->
@@ -92,6 +92,39 @@ categories: ['planetary defense']
   <tr style="background-color: #F5F5F5;">
     <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">SUMBER</td>
     <td style="padding: 12px 15px;"><a href="https://lelang.go.id" style="color: #1976D2; text-decoration: none; font-weight: bold;">lelang.go.id ↗</a></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+### ANALISIS DAN TAMBAHANN IINFORMASI PENTING
+
+<table style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+<thead>
+  <tr style="background-color: #1E1E1E; color: #FFFFFF; text-align: left;">
+    <th style="padding: 12px 15px; width: 35%;">INFORMASI</th>
+    <th style="padding: 12px 15px; width: 65%;">KETERANGAN</th>
+  </tr>
+</thead>
+<tbody>
+
+  <!-- Baris Tambahan dengan warna baru -->
+  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #E3F2FD;"> 
+    <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">ANALISIS LOKASI DAN POTENSI INVESTASI</td>
+    <td style="padding: 12px 15px; color: #333; line-height: 1.5;">
+      Uang jaminan sebesar <b>Rp 42.000.000</b> wajib dibayarkan untuk mengikuti lelang. Jaminan akan dikembalikan penuh apabila peserta tidak memenangkan lelang.
+    </td>
+  </tr>
+
+  <tr style="border-bottom: 1px solid #E0E0E0; background-color: #E8F5E9;">
+    <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">RESIKO DAN PANDUAN PENTING SEBELUM MENGIKUTI LELANG INI</td>
+    <td style="padding: 12px 15px; color: #D84315; line-height: 1.5; font-weight: 500;">
+      Disarankan untuk <b>berpikir matang dan teliti</b> sebelum memutuskan berinvestasi di tanah lelang. Lakukan survei lokasi, cek dokumen asli, dan pertimbangkan risiko investasi properti dengan seksama.
+    </td>
+  </tr>
+
   </tr>
 </tbody>
 </table>
