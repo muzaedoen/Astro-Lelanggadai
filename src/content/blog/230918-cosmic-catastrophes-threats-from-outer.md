@@ -1,9 +1,9 @@
 ---
-title: 'Info Lelang Rumah Perum Dinar Asri Semarang: Peluang Investasi & Analisis Risiko''
+title: 'Info Lelang Rumah Perum Dinar Asri Semarang: Peluang Investasi & Analisis Risiko'
 description: 'Simak detail lelang properti Bank Mandiri di Tembalang, Semarang dengan nilai limit Rp 201 Juta. Baca analisis lokasi dan tips aman ikut lelang KPKNL di sini.'
 pubDate: '2026-06-06 T01:22:34.123Z'
 heroImage: '/blog-placeholder.jpg'
-categories: ['Lelang']
+categories: ['lelang']
 ---
 
 <!-- FOTO BARANG LELANG -->
