@@ -82,3 +82,76 @@ const { title, description, pubDate, heroImage, categories, tags } = Astro.props
     </div>
   </article>
 </Base>
+
+<!-- CSS KUSTOM UNTUK TABEL LELANG (Mendukung SEO dan Responsif) -->
+<style is:global>
+  .tabel-lelang {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Inter', sans-serif;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    margin-bottom: 25px;
+  }
+
+  .tabel-lelang thead tr {
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+    text-align: left;
+  }
+
+  .tabel-lelang th, .tabel-lelang td {
+    padding: 12px 15px;
+    line-height: 1.5;
+  }
+
+  .tabel-lelang th:nth-child(1), .tabel-lelang td:nth-child(1) {
+    width: 35%;
+    font-weight: 800;
+    color: #1E1E1E;
+  }
+
+  .tabel-lelang th:nth-child(2), .tabel-lelang td:nth-child(2) {
+    width: 65%;
+    color: #333333;
+  }
+
+  .tabel-lelang tr {
+    border-bottom: 1px solid #E0E0E0;
+  }
+
+  /* Pewarnaan Baris & Background */
+  .bg-selang-seling { background-color: #F9F9F9; }
+  .bg-warning-muda { background-color: #FFF3E0; }
+  .bg-warning-tua { background-color: #FFE0B2; }
+  .bg-info-muda { background-color: #E3F2FD; }
+  .bg-sukses-muda { background-color: #E8F5E9; }
+  .bg-abu-sumber { background-color: #F5F5F5; }
+
+  /* Kustomisasi Teks */
+  .text-monospace { font-family: monospace; }
+  .text-danger-bold { color: #D32F2F; font-weight: bold; }
+  .text-success-bold { color: #2E7D32; font-weight: bold; }
+  .text-warning-muda-bold { color: #E65100; font-weight: bold; }
+  .text-warning-tua-bold { color: #BF360C; font-weight: bold; }
+  .text-catatan { color: #D84315; font-weight: 500; }
+  
+  .text-redup {
+    color: #555555;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+
+  .link-sumber {
+    color: #1976D2;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  /* Menjaga Tampilan Tetap Rapi di Tampilan Gelap (Dark Mode) */
+  .dark .tabel-lelang th:nth-child(2), 
+  .dark .tabel-lelang td:nth-child(2) {
+    color: #E4E4E7;
+  }
+</style>
