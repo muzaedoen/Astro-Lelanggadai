@@ -6,12 +6,11 @@ heroImage: '/blog-placeholder.jpg'
 categories: ['planetary defense']
 ---
 
-<!-- FOTO BARANG LELANG -->
 <div style="text-align: center; margin-bottom: 20px;">
     <img src="URL_GAMBAR_IMGBB_DISINI" alt="Foto Barang Lelang" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-<!-- TABEL INFORMASI LELANG -->
+
 <table style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
   <thead>
     <tr style="background-color: #1E1E1E; color: #FFFFFF; text-align: left;">
@@ -48,7 +47,30 @@ categories: ['planetary defense']
       <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">URAIAN</td>
       <td style="padding: 12px 15px; color: #333; line-height: 1.5;"><b>Luas:</b> 103 M²<br><b>Alamat:</b> Perum Dinar Asri N 8 11, Kelurahan Meteseh, Kecamatan Tembalang, Kota Semarang, Provinsi Jawa Tengah</td>
     </tr>
+
+    <tr style="border-bottom: 1px solid #E0E0E0; background-color: #F0F7FF;">
+      <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">ANALISIS JAMINAN</td>
+      <td style="padding: 12px 15px; color: #333; line-height: 1.5;">
+        Uang jaminan sebesar <b>Rp 42.000.000</b> wajib dibayarkan untuk mengikuti lelang. Jaminan akan dikembalikan penuh apabila peserta tidak memenangkan lelang.
+      </td>
+    </tr>
+
+    <tr style="border-bottom: 1px solid #E0E0E0; background-color: #FFF8E1;">
+      <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">CATATAN PENTING</td>
+      <td style="padding: 12px 15px; color: #D84315; line-height: 1.5; font-weight: 500;">
+        Disarankan untuk <b>berpikir matang dan teliti</b> sebelum memutuskan berinvestasi di tanah lelang. Lakukan survei lokasi, cek dokumen asli, dan pertimbangkan risiko investasi properti dengan seksama.
+      </td>
+    </tr>
+
     <tr style="border-bottom: 1px solid #E0E0E0; background-color: #F9F9F9;">
+      <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">KETERANGAN INFORMASI</td>
+      <td style="padding: 12px 15px; color: #555; line-height: 1.5;">
+        Informasi ini hanya bertujuan untuk mempermudah proses pencairan dan sebagai bahan referensi. Segala keputusan akhir berada di tangan peserta lelang.
+      </td>
+    </tr>
+
+    <!-- BARIS SEBELUMNYA -->
+    <tr style="border-bottom: 1px solid #E0E0E0;">
       <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">INFO PENJUAL</td>
       <td style="padding: 12px 15px; color: #555; font-size: 13px; line-height: 1.4;">
         <b>PT Bank Mandiri (Persero), Tbk</b><br>
@@ -57,7 +79,7 @@ categories: ['planetary defense']
         📞 Telepon: 14000
       </td>
     </tr>
-    <tr style="border-bottom: 1px solid #E0E0E0;">
+    <tr style="border-bottom: 1px solid #E0E0E0; background-color: #F9F9F9;">
       <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">INFO PENYELENGGARA</td>
       <td style="padding: 12px 15px; color: #555; font-size: 13px; line-height: 1.4;">
         <b>KPKNL Semarang</b> (Rekening BNI)<br>
@@ -69,6 +91,6 @@ categories: ['planetary defense']
       <td style="padding: 12px 15px; font-weight: 800; color: #1E1E1E;">SUMBER</td>
       <td style="padding: 12px 15px;"><a href="https://lelang.go.id" style="color: #1976D2; text-decoration: none; font-weight: bold;">lelang.go.id ↗</a></td>
     </tr>
-      
+     
   </tbody>
 </table>
